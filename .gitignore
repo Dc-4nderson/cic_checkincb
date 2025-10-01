@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env
+venv/
+ENV/
+*.sqlite3
+*.db
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+*.rej
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.egg
+*.whl
+*.coverage
+htmlcov/
+.mypy_cache/
+.pytest_cache/
+.cache/
+*.ipynb_checkpoints
+# OS
+Thumbs.db
+Desktop.ini
+# dotenv
+.env
+.env.*
