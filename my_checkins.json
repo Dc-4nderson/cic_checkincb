@@ -1,0 +1,874 @@
+[
+  {
+    "timestamp": "2024-09-23T21:19:26.057Z",
+    "checkin": "Today I joined today's zoom meeting and I have completed 50% of the Scratchwerk assingment \"Unity Learn- Create with Code.\""
+  },
+  {
+    "timestamp": "2024-09-24T22:41:04.568Z",
+    "checkin": "Today I joined the zoom meeting and have completed the unit 1 tutorial lesson 1.1-1.2 and plan to complete all 4 tutorials."
+  },
+  {
+    "timestamp": "2024-09-25T23:07:25.711Z",
+    "checkin": "Today I joined the zoom meeting and completed unit 1.1-1.4 on unity and will work to get the entire unit done tomorrow."
+  },
+  {
+    "timestamp": "2024-09-27T00:00:17.729Z",
+    "checkin": "Today I completed the tutorial 1 challenge in unity I had issues with getting the plane to tilt but I resolved it I entered the code wrong. I plan to complete the tutorial lab 1 by saturday."
+  },
+  {
+    "timestamp": "2024-09-28T15:20:25.859Z",
+    "checkin": "Today I joined the zoom meeting and completed the survey, I'll spend the rest of my time working on finishing the \"create with code\" Scratchwerk assignment."
+  },
+  {
+    "timestamp": "2024-09-30T22:41:21.292Z",
+    "checkin": "Today I joined the zoom meeting and I just started working on \"Lab 1- Project Design Document\" in unit 1 of Unity."
+  },
+  {
+    "timestamp": "2024-10-01T21:56:50.838Z",
+    "checkin": "Today I joined the zoom meeting and yesterday I began working on the lab for \"unit 1- player control\" I plan to finish this today and start working on unit 2 of unity."
+  },
+  {
+    "timestamp": "2024-10-02T21:10:56.845Z",
+    "checkin": "Today I joined the zoom call and plan to begin working on unit 2 of \"Unity create with code. I should be done by the end of this week. \" Yesterday I completed the lab 1 for unit 1 experienced some issues with making a plan for my personal project but I figured it out."
+  },
+  {
+    "timestamp": "2024-10-03T22:17:29.186Z",
+    "checkin": "Today I joined the Zoom meeting yesterday I finished 2.1 of the Unity assignment despite road blocks I faced when trying to make the player stay in bounds of x=10/-10. Today I plan on completing 2.2 and possibly 2.3 of the Unity assingment."
+  },
+  {
+    "timestamp": "2024-10-05T16:24:21.374Z",
+    "checkin": "On Friday I completed lesson 2.2 of the unity create with code some roadblocks being experienced with if then statement formatting. Today I joined the zoom meeting and presented what I am working on."
+  },
+  {
+    "timestamp": "2024-10-07T20:40:33.245Z",
+    "checkin": "Today I will join the zoom meeting and intend to continue on my work from Saturday and finish working on \"Unit 2- Basic Gameplay lesson 2.3\"."
+  },
+  {
+    "timestamp": "2024-10-08T20:45:30.223Z",
+    "checkin": "Yesterday I completed Lesson 2.3 on of the Unity Basic Gameplay section. Today I will join the zoom meeting and complete unit 2.4 and submit the my work into the \"MyVillage Project Academy\" course \"Basic Gameplay\""
+  },
+  {
+    "timestamp": "2024-10-09T21:39:51.160Z",
+    "checkin": "Yesterday I joined the zoom meeting and then I worked through the challenge with google colab notebook roadblocks being lack of python knowledge but I researched. Today I plan on working on unity lesson 2.4."
+  },
+  {
+    "timestamp": "2024-10-10T21:59:08.829Z",
+    "checkin": "yesterday I did some more research and work with python. Today I've done some work on unity 2.4 assignment I plan to complete it today."
+  },
+  {
+    "timestamp": "2024-10-14T20:00:15.402Z",
+    "checkin": "Today I plan to join the zoom meeting and finish lesson 2.4 of unity create with code."
+  },
+  {
+    "timestamp": "2024-10-15T20:03:41.186Z",
+    "checkin": "yesterday I joined the meeting and started doing individual learning with python. Today I plan to join the meeting and either continue with that or finish unity lesson 2.4"
+  },
+  {
+    "timestamp": "2024-10-16T20:49:14.719Z",
+    "checkin": "yesterday I completed unit 2.4 in unit and progressed to the challenge. I plan to join the meeting and work on the challenge today."
+  },
+  {
+    "timestamp": "2024-10-17T21:01:03.508Z",
+    "checkin": "yesterday I worked on the careers in black tech course to 14% completion today I will join the zoom meeting and work towards completing that course or the challenge for unit 2 of unity."
+  },
+  {
+    "timestamp": "2024-10-19T15:13:01.698Z",
+    "checkin": "I'm Dequan Anderson, I go to Paxon. Today I'm doing working on coding with python and my unity unit 2.4 challenge. In the next week I plan to be done with unit 2 and to start learning java."
+  },
+  {
+    "timestamp": "2024-10-21T21:01:56.087Z",
+    "checkin": "Today I will join the zoom meeting and continue to do some learning on coding languages as well as completing unit 2 of unity."
+  },
+  {
+    "timestamp": "2024-10-22T19:59:30.492Z",
+    "checkin": "Yesterday I worked on my Unit 2 challenge in unity where I got rid of the bugs that where there when I tried to run the code, coding the balls to spawn instead of dogs, and making the farmer spawn dogs instead of balls when the space bar is pressed.  Some roadblocks being getting rid of the bug I overcame this by going through each script to find an issue. Today I aim to complete the unit 2 challenge and start on the lab."
+  },
+  {
+    "timestamp": "2024-10-23T20:08:51.242Z",
+    "checkin": "Yesterday I completed the unit 2 unity challenge and used code academy to increase python understanding. Today I will start and finish the lab for unit 2 and get the section about AI and machine learning complete in the careers in black tech course"
+  },
+  {
+    "timestamp": "2024-10-24T20:02:59.591Z",
+    "checkin": "Yesterday I completed the AI and machine learning section of careers in black tech. As well as researched some streamlit and did a tutorial on a basic LLM app some roadblocks occurred when I tried to put open ai and langchain into the terminal. Today I plan to get the lab done and move onto unit 3 of unity and get past my roadblock with the LLM app."
+  },
+  {
+    "timestamp": "2024-10-28T20:11:47.232Z",
+    "checkin": "Today I will work on the unity unit 3 side scroll game adding some obstacles making my player run until hitting said obstacles and making the jump more realistic by changing the variable \"jump_power\" value."
+  },
+  {
+    "timestamp": "2024-10-29T20:03:57.300Z",
+    "checkin": "Yesterday I completed unit 3.1-3.2 and am moving to the animation part of the game as I have made code to instantiate objects make background scroll, etc. Also got coding careers in black tech course 81% complete. Today I plan to complete unit 3 of unity and the careers in black tech course."
+  },
+  {
+    "timestamp": "2024-10-30T20:01:20.616Z",
+    "checkin": "Yesterday I finished unit 3.3 making the animations and unit 3.4 assigning the sound effects to specific particles and animations. As well as completing the careers in black tech assignment. Today I will complete the lab and begin working on unit 4 of unity"
+  },
+  {
+    "timestamp": "2024-10-31T21:01:29.998Z",
+    "checkin": "Yesterday I completed the unit 3 lab on unity working to make my main player in my personal project move and started on unit 4. Today I will work on unit 4 aiming to complete this by saturday."
+  },
+  {
+    "timestamp": "2024-11-04T21:51:56.944Z",
+    "checkin": "Today I will finish the Unit 4 lab of unity by making my enemies and powerups in my personal game spawn using the Instantiate(). I will also do some research and trial runs with the streamlit project."
+  },
+  {
+    "timestamp": "2024-11-05T21:28:07.099Z",
+    "checkin": "Yesterday I completed my lab making my personal project's enemies and power ups spawn and making the enemies move at a constant speed. Today I will work to complete unit 5 of unity where I will add some user interfaces to a game."
+  },
+  {
+    "timestamp": "2024-11-06T21:50:55.553Z",
+    "checkin": "Yesterday I watched a couple youtube videos on making a text to speak chatbot through Gemini I also began working to start doing it myself some roadblocks being installing pyaudio and faster-whisper the error codes didn't help much on finding out the issue so did some trouble shooting and ended up restarting. Today I plan to get these road blocks sorted out and make progress on the project given on 10/23."
+  },
+  {
+    "timestamp": "2024-11-07T21:26:00.329Z",
+    "checkin": "Yesterday I did some research on the streamlit project as well as completed unit 5.1-2 of unity. I learned how to destroy an object when clicked on by the mouse by using the method OnMouseDown. Today I plan to complete unit 5.3-5.4 and begin the challenge."
+  },
+  {
+    "timestamp": "2024-11-09T20:21:22.430Z",
+    "checkin": "Today I presented my knowledge of careers in black tech. I plan to finish my unit 5 lab and submit it finishing unity."
+  },
+  {
+    "timestamp": "2024-11-11T22:01:42.774Z",
+    "checkin": "This weekend I finished my unit 5 unity lab where I made my personal project a title and end screen with a restart button. Also did some research on the Streamlit project I switched from pycharm to vs code so I am trying to get a feel for that. Will work on that today and make some progress on the project."
+  },
+  {
+    "timestamp": "2024-11-12T21:05:13.813Z",
+    "checkin": "Yesterday I set up my terminal and the stream lit project with different text and py files. One txt file being \"requirements\" which held all the libraries I needed to download a py file being speech recognition, which is specifically for setting up the speech recognition part of the project. I ran into issues when trying to download pyaudio and they aren't resolved yet. Today I will hopefully get past that roadblock and then continue setting up the speech recognition part."
+  },
+  {
+    "timestamp": "2024-11-13T22:02:15.166Z",
+    "checkin": "Yesterday I made progress on my streamlit project despite restarting again I worked on the front end first. Today I plan to work on the front end part and likely finish that and then move to the speech recognition part."
+  },
+  {
+    "timestamp": "2024-11-14T20:51:55.544Z",
+    "checkin": "Yesterday I got past errors and roadblocks and got streamlit llm to run using meta also began the python course learning about what value it can bring to me. Today I will get past the intro of that and get some of that course completed and work on the front end of the speech recognition part of the llm."
+  },
+  {
+    "timestamp": "2024-11-18T20:56:16.835Z",
+    "checkin": "Today I will be getting further along in my python course and learn some markup language. I will also work on my streamlit chat bot as I made it so the user can input voice chat just have to implement speech recognition to make the llm respond to audio."
+  },
+  {
+    "timestamp": "2024-11-19T21:13:22.871Z",
+    "checkin": "Yesterday I reviewed some markup language for my python course and made some variables to translate the audio received from the user to text some roadblocks being downloading pyaudio . Today I will practice using markup language in code and move on to the next part in my python course as well as troubleshoot the pyaudio install to get the speech to text working."
+  },
+  {
+    "timestamp": "2024-11-20T21:22:32.252Z",
+    "checkin": "Yesterday, I completed up to 44% of the python course learning about markup languages in google colab and revisiting variables, as well as troubleshooting more for solutions to \"module: pyaudioop not found\" when trying to run through streamlit my code. Today I plan to further my python course completion resuming my work on basic naming types and I hope to fix my roadblocks."
+  },
+  {
+    "timestamp": "2024-11-21T21:14:13.909Z",
+    "checkin": "Yesterday I completed the intro into python course learning further about naming variables I also got pyaudio installed by setting it == the version I wanted ran into a different roadblock afterwards my code didn't get the  user audio file I likely need to install ffmpeg. Today I will be trying to do troubleshoot that and if no more roadblocks after that I'll work on making the llm invoke a response to the translated audio"
+  },
+  {
+    "timestamp": "2024-11-25T20:43:10.774Z",
+    "checkin": "Saturday I finished the backend portion of the streamlit chat bot making it function-able (get user audio and text inputs and responding to them with meta llama 3.2) for the 2k project. Today I will clean up some of the code and make the front end more presentable."
+  },
+  {
+    "timestamp": "2024-11-26T21:59:36.771Z",
+    "checkin": "Yesterday I completed the streamlit speech to text chat bot changing the theme to dark and primary color to purple by adding \"--theme.base 'dark' \" to the Windows PowerShell after typing streamlit run myfile...py. Today I will be learning more python with Kaggle and making plans to create a website/app for booking my car detailing service."
+  },
+  {
+    "timestamp": "2024-12-02T21:53:13.959Z",
+    "checkin": "Today I will continue to learn more python as well some JavaScript and create another streamlit llm themed around a topic I haven't decided yet"
+  },
+  {
+    "timestamp": "2024-12-03T22:02:26.738Z",
+    "checkin": "Yesterday I learned about lists in python and indexing, as well as did an intro into JavaScript and worked on fixing setting an environment variable for google speech to text API. Today I will fix that and set the environment variable to get my LLM working again, as well as further my knowledge with coding languages."
+  },
+  {
+    "timestamp": "2024-12-04T21:53:54.481Z",
+    "checkin": "Yesterday I set the environment variable successfully so the chat bot runs I also learned about slicing and appending to lists. Today I plan to set up my vs code to create an app focused on using sports data and sport book data to generate the best possible parlays for different sports books, as well as continuing my learning of different coding languages."
+  },
+  {
+    "timestamp": "2024-12-05T21:59:31.619Z",
+    "checkin": "Yesterday I made steps toward deploying my streamlit llm so far I made a github account and made steps toward making a repository (private). Today I will be deploying the llm and if I have any extra time I will continue learning python through kaggle."
+  },
+  {
+    "timestamp": "2024-12-09T22:02:44.879Z",
+    "checkin": "Today I plan to complete my sample dataset and learn more about creating them as well as to find out how and to integrate that into my Streamlit app to get only answers to specific questions."
+  },
+  {
+    "timestamp": "2024-12-10T20:39:57.137Z",
+    "checkin": "Yesterday finished the sample dataset with 4 specific questions and answers and tried implementing it into my chatbot currently haven't found out how I learned how to load hugging face datasets into python. Today I am to find a way to implement and train my chatbot to only respond to the specific dataset questions."
+  },
+  {
+    "timestamp": "2024-12-11T21:05:54.808Z",
+    "checkin": "Today I will be attempting to fine tune llama 3.2 with my data I might have to switch to the open source version if that doesn't work. Yesterday I just researched what was needed to do the fine tuning."
+  },
+  {
+    "timestamp": "2024-12-12T22:01:38.698Z",
+    "checkin": "Yesterday I made a hugging face token and acessed it with a hidden variable in my google colab. Today I will work on fine-tuning llama 3.2 I will work on the understanding the concept first then attempting this, my goal is to understand how to and to map out the steps to fine-tuning model at least, by the end of the day."
+  },
+  {
+    "timestamp": "2024-12-16T21:25:48.754Z",
+    "checkin": "Today I will be troubleshooting multiple pip download issues (since certain libraries won't download due to lack of wheels and incorrect versions), and then checking my code to see if my chatbot pulls from a document or pdf using RAG."
+  },
+  {
+    "timestamp": "2024-12-17T21:38:15.188Z",
+    "checkin": "Yesterday I downloaded all python libraries except for torch roadblock being the python version i am using doesn't support it. Today I will be combatting this by using docker as I don't want to have to download all those libraries again after downgrading to python 3:12 my goal is to get that downloaded and then see if my code runs with no errors."
+  },
+  {
+    "timestamp": "2024-12-19T21:20:22.681Z",
+    "checkin": "Yesterday I got all the libraries installed and reached roadblocks when trying to run my code an OS error popped up as the hug token in my .env file isn't recognized in turn my dataset (context for chatbot responses) isn't accessible . Today I will work on getting that to be accessible and then running and possibly troubleshooting my code."
+  },
+  {
+    "timestamp": "2024-12-21T15:09:08.155Z",
+    "checkin": "Today I will work on my intro into machine learning course in Kaggle and troubleshoot the value error I get when attempting to run my code for the community Streamlit chat bot."
+  },
+  {
+    "timestamp": "2024-12-25T21:53:43.318Z",
+    "checkin": "today I'll be spending time with my family and working on my intro into machine learning course in Kaggle."
+  },
+  {
+    "timestamp": "2024-12-26T21:42:22.225Z",
+    "checkin": "I've been throwing up all day but feeling a little better as of now so I'll try to do more research on RAG as I had to rearrange my code and ended up restarting the implementation of RAG."
+  },
+  {
+    "timestamp": "2024-12-30T22:21:06.767Z",
+    "checkin": "today I will be implementing embeddings and change the chunks so my chatbot can get the text from a word doc or pdf and then utilize it as the context for all responses I'll then test this."
+  },
+  {
+    "timestamp": "2024-12-31T23:02:12.886Z",
+    "checkin": "yesterday I added a few functions to initialize rag and to generate embeddings of the sample pdf I also changed the function \"generate_response\" making it call initialize rag if it's not already called in the streamlit session state. Today I aim to fix error when I get when running the code."
+  },
+  {
+    "timestamp": "2025-01-01T21:47:44.353Z",
+    "checkin": "yesterday I added a few more functions to split the sample pdf into chunks so snd another to search for relevant chunks this will make it to where the question gained from user will get answers from sample PDF based on chunks today I aim to get rid of the index error I get when attempting to run the streamlit app"
+  },
+  {
+    "timestamp": "2025-01-02T21:48:56.303Z",
+    "checkin": "today I will continue troubleshooting the error code I get when attempting to run my function to search for relevant chunks"
+  },
+  {
+    "timestamp": "2025-01-06T21:33:05.902Z",
+    "checkin": "Today I will work on changing the from google speech to text api which doesn't work for my current python version to likely whisper or azure to get the speech to text back working on my streamlit chatbot"
+  },
+  {
+    "timestamp": "2025-01-07T21:05:58.371Z",
+    "checkin": "today I will be continuing with implementing whisper to the speech to text back functioning as well as mapping out the different steps and things I'll need to complete my personal project (idea)."
+  },
+  {
+    "timestamp": "2025-01-08T21:51:41.478Z",
+    "checkin": "Today I aim to get the output of each amazon transcribe job turned into a variable which would be the question asked in the case of my speech to text chatbot. If not possible I will try tensorflow, vosk, ibm, and azure. I aim to have the speech to text back working by the end of the week."
+  },
+  {
+    "timestamp": "2025-01-09T22:03:43.026Z",
+    "checkin": "Today I aim on getting the st. type error i get when attempting to run the ibm speech to text api this is a roadblock that i should have resolved by saturday."
+  },
+  {
+    "timestamp": "2025-01-13T21:47:36.640Z",
+    "checkin": "Today I will be working on changing my python version to get all my dependencies downloaded as that is my only issue afterwards I'll revise the code and delete all the comments making it more readable."
+  },
+  {
+    "timestamp": "2025-01-14T21:56:15.736Z",
+    "checkin": "today I will clean up my code and work on my personal project which is an nba parlay chatbot."
+  },
+  {
+    "timestamp": "2025-01-15T21:34:25.727Z",
+    "checkin": "today I will start making the beta of my NBA chatbot through Streamlit I plan to make a webapp for it later on, will create the directory and venv and a requirements.txt file bear minimum."
+  },
+  {
+    "timestamp": "2025-01-22T21:40:32.886Z",
+    "checkin": "today I will be focusing mainly on school work ,finishing up my sample data for community chatbot and learning some html for my webapp."
+  },
+  {
+    "timestamp": "2025-01-23T21:45:21.372Z",
+    "checkin": "Today I will finish the sample data and begin building a webapp to host my nba player prop checker and insight sorter."
+  },
+  {
+    "timestamp": "2025-01-25T15:17:00.807Z",
+    "checkin": "Today I'll be testing accuracy of my speech to text chatbot and troubleshooting accordingly. I will also begin building a webapp through flask to host my NBA player prop data insight generator."
+  },
+  {
+    "timestamp": "2025-01-27T20:58:21.213Z",
+    "checkin": "today I will work on implementing my chatbot into my webapp as of right now a very simple \"hello user\" message pops up I would like to prompt it to ask a user a question and get user answers and generate a response"
+  },
+  {
+    "timestamp": "2025-01-28T21:20:01.656Z",
+    "checkin": "today I will be integrating my ollama rag chat bot into my flask webapp and playing with some variables from python to html to see what exactly I can display"
+  },
+  {
+    "timestamp": "2025-01-29T21:26:17.985Z",
+    "checkin": "Today I worked on making the logic for CIC meeting chatbot I implemented some data into the context in the backend and it gave me the correct answer I am now trying to get the embeddings into pinecone and from there to my code as the database to compare questions to."
+  },
+  {
+    "timestamp": "2025-01-30T19:53:58.645Z",
+    "checkin": "Today I will try out different models for the CIC meetings cb llama 3.2 works good it gave some interesting responses as it used some common sense and not just context when generating the answer. I will then work to get the vectors into a pinecone vector database and then call that in code."
+  },
+  {
+    "timestamp": "2025-02-03T18:32:14.534Z",
+    "checkin": "today I will work on adding a chat history tab for each sessions state that way I can track all the answers I get into from each question in excel file I then aim to deploy the CIC meetings chatbot."
+  },
+  {
+    "timestamp": "2025-02-04T21:01:23.172Z",
+    "checkin": "today I will begin making data for my model and I aim to begin training it from a pre-trained transformers question answer model"
+  },
+  {
+    "timestamp": "2025-02-05T21:37:59.348Z",
+    "checkin": "today I will test responses in the cic chatbot with different models I made a script to if the score given by the model is greater then 80% put those questions and answers into an excel and after further review I put the correct answers into a json to use as a training dataset for my model"
+  },
+  {
+    "timestamp": "2025-02-06T21:28:58.532Z",
+    "checkin": "today I will be focusing mainly on school work today but I will continue working on creating a dataset with likely 100 or so collumns to use to train a hugface model still experimenting with models to see which pretrained I want to use"
+  },
+  {
+    "timestamp": "2025-02-10T21:20:55.333Z",
+    "checkin": "today I will do more testing with transformers models for the cic cb and I will make steps to get the 2k project chatbot deployable first step being switching models as I was previously using llama 3.2 through ollama."
+  },
+  {
+    "timestamp": "2025-02-11T21:46:29.494Z",
+    "checkin": "Today I will be creating env variables for my code and adding proper comments to the community chatbot then I will connect it to a github repo to deploy it into streamlit."
+  },
+  {
+    "timestamp": "2025-02-12T21:24:48.891Z",
+    "checkin": "today I will be continuing work on the 2k streamlit chatbot I don't love the response speed and answer format so I will research how to increase the speed and play around with different models then I will deploy it."
+  },
+  {
+    "timestamp": "2025-02-13T21:51:39.133Z",
+    "checkin": "Today I'll continue testing text gen models for accuracy and playing around with the prompt passed to it. I aim to have found a model I like and can deploy the 2k project cb with by next week"
+  },
+  {
+    "timestamp": "2025-02-18T21:42:12.356Z",
+    "checkin": "Today I will be implementing request and re to generate rag responses into the cic meetings chatbot to see if that can pull responses correctly and I will begin making a dataset for training a model to use my slang"
+  },
+  {
+    "timestamp": "2025-02-19T21:31:12.387Z",
+    "checkin": "Today I will be preparing for my CLT which is tomorrow I will also be adding instructions to my chatbot as yesterday I had to fix the function to generate context since it caused the model I was using to hallucinate"
+  },
+  {
+    "timestamp": "2025-02-24T20:45:01.807Z",
+    "checkin": "today I will be either be working with my group or working on getting accurate responses for the 2k project chatbot by changing prompts to pass to the model switching models and playing with variables like temperature"
+  },
+  {
+    "timestamp": "2025-02-26T21:32:02.954Z",
+    "checkin": "Today I will add info on my family for my rag chatbot to use as context if relevant I also plan on adding instructions for the user of the chatbot if I am confident in the responses I get I will also look more into flutter and possibly use it"
+  },
+  {
+    "timestamp": "2025-02-27T21:13:21.280Z",
+    "checkin": "Today I will try to auto train a text classification model using the check in data set since yesterday it wasn't getting any values from my dataset collumns I will also work on my chunking distribution for upserting pinecone records to make the context retrieval better"
+  },
+  {
+    "timestamp": "2025-03-04T21:51:23.522Z",
+    "checkin": "Today I will be attempting to train my model and push it into hugging face through python yesterday I unsuccessfully used hugging face auto train website and trying to train it through the cli but the docs said nothing about this so I will attempt it in code"
+  },
+  {
+    "timestamp": "2025-03-05T21:36:09.890Z",
+    "checkin": "Today I will be meeting with my team and closing up holes working on my demo and finishing Up my code to train my model using LoRA"
+  },
+  {
+    "timestamp": "2025-03-06T21:50:52.960Z",
+    "checkin": "today I will set aside for studying as I have two tests tomorrow but yesterday I was able to almost train my model and worked on my group project demo"
+  },
+  {
+    "timestamp": "2025-03-10T18:53:41.020Z",
+    "checkin": "Today I will be working on training my model I am close I just get an error with the validation aspect I'm getting an error that the output only returns logits and not a loss. I will also watch a video on using flutter and work on some more logic for my NBA insights app."
+  },
+  {
+    "timestamp": "2025-03-11T20:27:34.977Z",
+    "checkin": "today I will work on getting my finetuned text categorization model into hugging face as when I try to access it using pipeline it gives an error so I think I incorrectly pushed the model into hugging face"
+  },
+  {
+    "timestamp": "2025-03-12T20:03:07.308Z",
+    "checkin": "Today I will get my nba insighter app into flutter and work on the ui and bit of the logic and will work on a demo for my groups presentation"
+  },
+  {
+    "timestamp": "2025-03-18T20:48:26.943Z",
+    "checkin": "today I will begin getting my streamlit nba insighter app into a flutter app and collecting data for a dataset"
+  },
+  {
+    "timestamp": "2025-03-19T20:39:20.979Z",
+    "checkin": "today I will create more data for my text generation model as well as working on the last 3 short clips for the Ctrl + H video"
+  },
+  {
+    "timestamp": "2025-03-22T15:14:44.853Z",
+    "checkin": "today I'm aiming to finish creating the homepage of my nba flutter app and I will continue creating a bigger database to use to finetune a text generation model on different speech styles of different ages"
+  },
+  {
+    "timestamp": "2025-03-24T20:16:30.266Z",
+    "checkin": "Today I will be working on more UI for my app like the subscription settings and sign in page I plan to have the UI looking good by the end of the week"
+  },
+  {
+    "timestamp": "2025-03-25T20:15:04.955Z",
+    "checkin": "today I plan to work on creating more data on different responses depending on a users age I will also be working on my app implementing a filter button for users to use when searching for a player's stats"
+  },
+  {
+    "timestamp": "2025-03-26T20:08:32.282Z",
+    "checkin": "today I will focus on getting and categorizing data a lot of it to train multiple models one being a text gen another be text classification on confidence and another zero shot for categorizing statements"
+  },
+  {
+    "timestamp": "2025-03-27T20:55:54.442Z",
+    "checkin": "today I will be editing my data on different styles of responses depending on user's age I have 2000 rows of data yesterday I began checking to see if each generated prompt was something I agreed with and I will continue to do this today. I hope to have the data ready by Saturday."
+  },
+  {
+    "timestamp": "2025-03-29T13:57:09.989Z",
+    "checkin": "Today I will be creating more statements to add to the text categorization model which categorizes interview answers as I trained the model and it's not ready to use yet. I will also label more prompts for my text generation model i am finetuning."
+  },
+  {
+    "timestamp": "2025-03-31T20:47:57.189Z",
+    "checkin": "Today I am retraining the interview model with more data to get more accurate responses I will also start creating data for my text confidence model as well as finishing the fine-tuning of my text generation model."
+  },
+  {
+    "timestamp": "2025-04-01T19:43:53.032Z",
+    "checkin": "today I'll be fixing my backend code to be give each season played to my UI using this to create a drop down component for users to select. I also will work on my other backend logic that generates the insights as well as the chatbot finetuned specifically for those who create parlays to get back still working on the logic."
+  },
+  {
+    "timestamp": "2025-04-02T20:42:08.785Z",
+    "checkin": "Today I'll be finishing my frontend as I made the main endpoints work and need probably 2 more. I also have been working on finetuning a text-gen model to respond differently depending on a user's age i will try to do that today as well I reached a roadblock regarding runtime so I switched to vs code but it is steady crashing so I will retry after making some changes."
+  },
+  {
+    "timestamp": "2025-04-03T20:52:54.400Z",
+    "checkin": "today I will be working on an endpoint in the backend to get insights from a hugging face model. The logic works I just need to change the prompt and use either a summation model or sort with stats are relevant depending on the user's use of the retrieval of insights"
+  },
+  {
+    "timestamp": "2025-04-05T13:56:59.398Z",
+    "checkin": "Today I am connecting my progress on my backend using fastapi to my flutter backend and I will be re-fine-tuning a model to respond differently depending on a user's age"
+  },
+  {
+    "timestamp": "2025-04-07T18:16:28.474Z",
+    "checkin": "Today I'll be working on backend code for my model I trained on different ways to respond to a user based off of age groups. Roadblocks being the testing of responses as the style is changed but I will be setting up a RAG system to make the answers specific to the use since the responses are random"
+  },
+  {
+    "timestamp": "2025-04-08T20:47:15.944Z",
+    "checkin": "Today I will finish the backend for my project's chatbot I thought i had dependency issues but the issue was the reloader not working in the default host port so I had to change ports."
+  },
+  {
+    "timestamp": "2025-04-09T20:15:27.769Z",
+    "checkin": "Today I am going to finalize the backend to frontend connection for the (top secret) and create more accurate data for the R.A.G system"
+  },
+  {
+    "timestamp": "2025-04-10T20:45:27.115Z",
+    "checkin": "Today I worked a bit and connected the front end and backend, I aim to add some finishing touches to it so it is ready to present on Saturday"
+  },
+  {
+    "timestamp": "2025-04-12T13:57:51.423Z",
+    "checkin": "today I'm ready to pitch with my team"
+  },
+  {
+    "timestamp": "2025-04-14T19:33:54.462Z",
+    "checkin": "today I will work on an app to host the data of how often the plant was watered as well as the chatbot that will be on the app."
+  },
+  {
+    "timestamp": "2025-04-15T18:37:05.852Z",
+    "checkin": "Today I worked on the website for Everflora using replit creating a page to sell the pods talk to a chatbot and a page to connect devices and to monitor the system's details. I will later do some more research on AI agents and stuff I will be going over in the civic counsel video."
+  },
+  {
+    "timestamp": "2025-04-16T20:01:59.858Z",
+    "checkin": "Today I will finish training my confidence rating text classification model and work more on the everflora website"
+  },
+  {
+    "timestamp": "2025-04-17T20:52:50.835Z",
+    "checkin": "Today I will focus mainly on retraining my confidence model im running into some slight roadblocks it keeps overwriting my model before I push it to the hub as an inaccurate model when i test it and pull it from pipeline i got different responses."
+  },
+  {
+    "timestamp": "2025-04-19T13:55:58.667Z",
+    "checkin": "Today I am creating and sorting data for labeling confidence in a person that is detected by facial expressions and body language."
+  },
+  {
+    "timestamp": "2025-04-22T21:13:24.353Z",
+    "checkin": "today I will finish my confidence analysis app and be ready to show it by tomorrow"
+  },
+  {
+    "timestamp": "2025-04-23T20:39:20.727Z",
+    "checkin": "today u will make the logins on my confidence app save to a database and set up a verification email to the registered accounts using send grid api and also create a spaces with a model in it"
+  },
+  {
+    "timestamp": "2025-04-24T20:54:44.541Z",
+    "checkin": "Today I worked alot on the confidence analyzer app and will soon fix the errors in my spaces app."
+  },
+  {
+    "timestamp": "2025-04-26T13:58:29.874Z",
+    "checkin": "Today I will work on collecting more image and text data to go in my confidence models I will also finish creating my spaces i ran into an error thursday since my hugging face key is cached inside of the current repo i am in and it will be easier to just create a new repo."
+  },
+  {
+    "timestamp": "2025-04-28T18:48:16.094Z",
+    "checkin": "Today I will research and begin image training for a different model using MLP and attempt to host that in a spaces app."
+  },
+  {
+    "timestamp": "2025-04-29T20:47:21.755Z",
+    "checkin": "Today I will be researching how to create data for and train a sound classification model. I also will improve my confidence models significantly by adding a lot more data to the training datasets and re-training the models on that data."
+  },
+  {
+    "timestamp": "2025-04-30T20:35:00.016Z",
+    "checkin": "Today I will work on gathering more data for my confidence image model since when i added like 100 images the data was inbalanced and the training metrics werent the best I will also begin creating a coin image classification model"
+  },
+  {
+    "timestamp": "2025-05-01T20:38:46.857Z",
+    "checkin": "today I will be working on of course creating more confidence data as yesterday I retrained the model on more images. I will also compose research and touch base with my group for the civic counsel presentation."
+  },
+  {
+    "timestamp": "2025-05-05T20:54:35.239Z",
+    "checkin": "today I will work on the everflora website and preparing it to connect to any users device I will also work on the logic and making a login option and storing the users login in a replit or firebase database. Will also create and label more data on confidence"
+  },
+  {
+    "timestamp": "2025-05-06T20:47:15.035Z",
+    "checkin": "today I will continue adding image data and labeling them for confidence I will also generate larger transcripts for the text class model. I will continue working on the everflora web app"
+  },
+  {
+    "timestamp": "2025-05-07T20:56:54.087Z",
+    "checkin": "today I will redeploy my confidence app as I retrained my text model with a lot more data and I improved its functionality. I'm getting a lot of errors to do with the size of the app since I pulled the model not via pipeline so I'll probably change how I pull the model."
+  },
+  {
+    "timestamp": "2025-05-08T20:24:46.785Z",
+    "checkin": "yesterday I didn't redeploy the app successfully I did some studying for my exam that was today. Today I will look into creating an AI agent Jarvis type thing and redeploy my confidence app"
+  },
+  {
+    "timestamp": "2025-05-10T14:00:43.906Z",
+    "checkin": "today I'm not at my computer but I will be playing with different AI tools like mid journey and doing research for the civic council meet as well as for an application I want to create"
+  },
+  {
+    "timestamp": "2025-05-13T20:39:16.000Z",
+    "checkin": "today I will be working on putting my confidence dataset into hugging face with a text classsifcation model for recommendations. I will also work on my confidence app and researching unsupervised training"
+  },
+  {
+    "timestamp": "2025-05-14T20:05:46.613Z",
+    "checkin": "today I will be studying for my AP precal final and creating my interfaces for my confidence models since i couldn't deploy by loading the model because of pytorch size."
+  },
+  {
+    "timestamp": "2025-05-17T15:39:47.061Z",
+    "checkin": "Today I will be working on data labeling and editing for my confidence models I also made a workflow to pull real data from an nba for my nba dataset so the inputs are more realistic"
+  },
+  {
+    "timestamp": "2025-05-19T19:42:32.715Z",
+    "checkin": "today I will continue to update my nba model as well as my confidence statement and image classification models. I will also think of ways to improve my nba data workflow to get more robust data in the format I want requiring little change"
+  },
+  {
+    "timestamp": "2025-05-20T20:43:48.755Z",
+    "checkin": "today I will train my confidence models on more data focusing on more realistic inputs for images and text I will also make ui changes to the confidence analysis app and create a function to handle api calling when my models are scaled to 0 yesterday I fixed my issue with deployment and made the app smaller but still the same in functionality"
+  },
+  {
+    "timestamp": "2025-05-21T21:03:04.591Z",
+    "checkin": "today i will be working on the front end of my confidence analyzer to make it consistent throughout the application will also collect and label more data"
+  },
+  {
+    "timestamp": "2025-05-22T20:04:21.110Z",
+    "checkin": "Today I will be collecting and labeling more data on confidence in images and text I'm also going to look in to and attempt to do it in sound"
+  },
+  {
+    "timestamp": "2025-05-24T14:24:47.373Z",
+    "checkin": "today I will retrain and push my image model for confidence I will also begin creating a dataset for my confidence sound model and possibly train it"
+  },
+  {
+    "timestamp": "2025-05-26T14:20:21.627Z",
+    "checkin": "today i will be training my model to determine if someone is confident based off of speech and i will create augmentations for the image dataset to help balance it"
+  },
+  {
+    "timestamp": "2025-05-27T19:34:14.909Z",
+    "checkin": "today I'll be getting more audio data to create a better confidence model that determines confidence through speech"
+  },
+  {
+    "timestamp": "2025-05-28T20:27:29.134Z",
+    "checkin": "today I will create sudo code for the 2 apis and then train my speech categorization model to categorize confidence levels"
+  },
+  {
+    "timestamp": "2025-05-29T21:00:33.139Z",
+    "checkin": "today I will make an api to determine pros and cons for ideas or decisions that are inputed and decide whether I should make it an application or make a website to host my api endpoint and charge for keys on or both"
+  },
+  {
+    "timestamp": "2025-06-02T19:44:21.400Z",
+    "checkin": "Today I am fine tuning the final model I'll need for my nba insights app which is a text gen model which generates insights based on a plethora of factors I will also work on creating an api to scrape some of these factors which lack an api already"
+  },
+  {
+    "timestamp": "2025-06-03T18:53:02.803Z",
+    "checkin": "Today i am working on and creating my NBA api that scrapes data from this website to get the stats that each position averages against a specific team and I will retrain my text generation model on more data since the responses aren't good"
+  },
+  {
+    "timestamp": "2025-06-04T18:20:42.484Z",
+    "checkin": "today I will be onboarding and making my api more extensive and afterwards publishing it and creating a website to give an api key to a user where they would be charged per call they make."
+  },
+  {
+    "timestamp": "2025-06-05T18:04:39.998Z",
+    "checkin": "Today ill be researching profitable tasks for my first AI agent and expanding my nba insights text generation dataset"
+  },
+  {
+    "timestamp": "2025-06-07T14:20:24.626Z",
+    "checkin": "Today I will finishing my onboarding orientation for MYAWP as well as working on an Ai agent"
+  },
+  {
+    "timestamp": "2025-06-09T18:54:13.374Z",
+    "checkin": "today I will improve my n8n data retrieval workflow which will feed into my ai agent I'm working on outputs now since I know i actually get the data"
+  },
+  {
+    "timestamp": "2025-06-10T15:05:31.349Z",
+    "checkin": "Today I'll be making sure my ai agent pulls news data every three hours and does its task correctly right now I have hardcoded values I'll also work on adding function nodes to my n8n to make a more dynamic agent to test if it works I will have the values saved to an excel or google sheets"
+  },
+  {
+    "timestamp": "2025-06-11T16:01:52.493Z",
+    "checkin": "\"today I will work on creating webhooks for the ai agent to be used through my own UI which I can deploy for users to use after I utilize another data source and have the data merged with my other data source and passed to my agent"
+  },
+  {
+    "timestamp": "2025-06-14T13:40:50.963Z",
+    "checkin": "today ill be learning how to implement webhooks into n8n and creating a system to turn data into a newsletter type object"
+  },
+  {
+    "timestamp": "2025-06-16T16:49:21.425Z",
+    "checkin": "today I will work on formatting the newsletter image and text into one html page or document type object and I will make sure this is returned by the webhook I will also work on my webhook parameter logic to ensure no values are hardcoded"
+  },
+  {
+    "timestamp": "2025-06-17T16:09:26.250Z",
+    "checkin": "today I will be creating a quick game in unity to call a weather api and to take inputs and return values after a button is pressed I will also work on getting my outputs for both of my n8n workflows to return what I want."
+  },
+  {
+    "timestamp": "2025-06-18T18:31:29.697Z",
+    "checkin": "today i will work on the UI to display the api call into unity and i will try to finetune webhook responses from both of my workflows"
+  },
+  {
+    "timestamp": "2025-06-19T19:01:37.743Z",
+    "checkin": "today i got the respond to webhook nodes set to give the expected response for my stock agent as well as the newsletter generator I am working on a ui for the stock agent now and also create an api in render to turn binary data into an image url"
+  },
+  {
+    "timestamp": "2025-06-21T13:07:49.349Z",
+    "checkin": "Today i will work on testing my stock application for any issues and think of ways to improve ui i will also attempt to take that code and put it into my git repo so i can create an expo mobile app out of what i already have after posibly finetuining the application a little"
+  },
+  {
+    "timestamp": "2025-06-23T17:05:36.413Z",
+    "checkin": "today I will be training my confidence speech categorization model and adding to my image dataset"
+  },
+  {
+    "timestamp": "2025-06-24T18:52:27.373Z",
+    "checkin": "yesterday I worked on a bigger speech dataset as well as making the outputs of the mvp newsletter api a json object and I worked on this game with my friend today I will train the model for the unity challenge and work on a scence for it"
+  },
+  {
+    "timestamp": "2025-06-25T17:59:15.400Z",
+    "checkin": "today I will create my scene for the api I created to be called in unity I will also work on creating a game and database system"
+  },
+  {
+    "timestamp": "2025-06-26T16:07:11.820Z",
+    "checkin": "today I'll be retraining my confidence speech classification and image classification models on a lot more data to get the most accurate responses"
+  },
+  {
+    "timestamp": "2025-06-28T13:55:43.870Z",
+    "checkin": "today I will work on my datasets regarding confidence in both images and speech and I will also begin attempting to make an ai agent in code and not just n8n since I am given lesson control in n8n"
+  },
+  {
+    "timestamp": "2025-06-30T17:05:11.682Z",
+    "checkin": "today i worked on making my image confidence classification model better since i realized my config.json was off from my datasets ids and labels and it now works alot better and gives expected outputs. Today i will be working on my n8n workflow which generates newsletters by adding maybe another model in the backend to give better prompts to the image model"
+  },
+  {
+    "timestamp": "2025-07-01T18:22:18.775Z",
+    "checkin": "today I will play around with my training args and do research for the type of parameters I need for a model trained on my datasets size and task"
+  },
+  {
+    "timestamp": "2025-07-02T17:46:55.164Z",
+    "checkin": "today I will be working on flushing out a vector database for miss hardwicks website I will also work on labeling and creating data today"
+  },
+  {
+    "timestamp": "2025-07-03T17:41:57.879Z",
+    "checkin": "Today I will further set up the bginthebr vector store and finish working on the logic for the newsletter ai agent i have most logic down besides getting the number of newsletters variable to return those different letters."
+  },
+  {
+    "timestamp": "2025-07-05T12:34:33.736Z",
+    "checkin": "Today I am finalizing the newsletter ai agent and working on combining rag with an unfine tuined text-gen and then using a text2text model to translate the responses and wrap it in an api, that way i dont have to train a text gen model to understand confidence"
+  },
+  {
+    "timestamp": "2025-07-07T17:23:17.305Z",
+    "checkin": "Today I will be setting up a RAG chatbot which can be called via api and I will test how good the responses are i will also continue to further my confidence image dataset's rows and play around a little more with the training args to see if i can get better results but i believe i just need more data or a smaller model"
+  },
+  {
+    "timestamp": "2025-07-09T18:52:12.007Z",
+    "checkin": "today I will retrain my image model using a smaller model after I use the increase of data that I have added to train the larger model if the larger model doesn't work to expectations then I will pivot to the smaller model"
+  },
+  {
+    "timestamp": "2025-07-10T16:45:30.969Z",
+    "checkin": "Today i am getting the bgibr rag api deployed and then work on the prompt after i get it bare minimum deployed"
+  },
+  {
+    "timestamp": "2025-07-12T13:56:42.470Z",
+    "checkin": "today i will work on the things that i will be presenting at the urban ed symposium like the confidence analysis website and possibly my stock agent application"
+  },
+  {
+    "timestamp": "2025-07-14T14:30:57.798Z",
+    "checkin": "Today i will focus primarily on my confidence image model and my n8n ai agent's image generation improvements"
+  },
+  {
+    "timestamp": "2025-07-15T18:09:34.526Z",
+    "checkin": "today I will be researching and testing rag models and prompts that work best I will also be researching and likely testing best image generation models to use for the newsletter ai agent"
+  },
+  {
+    "timestamp": "2025-07-16T18:26:12.664Z",
+    "checkin": "Today I am making the Ai newsletter agent production ready I will mess around with different prompts and use different example data to test it"
+  },
+  {
+    "timestamp": "2025-07-17T16:44:37.791Z",
+    "checkin": "yesterday I added some new text to the newsletter sample database to test how it works with more data and it does well so I will keep testing that and look for gaps to fix today"
+  },
+  {
+    "timestamp": "2025-07-19T14:10:36.777Z",
+    "checkin": "today I will play around with different models for the newsletter agent and also work on collecting/labeling data"
+  },
+  {
+    "timestamp": "2025-07-21T14:26:48.199Z",
+    "checkin": "Today I will be working on using a different image model for my image generation model in my newsletter agent i am very close to it being consistent with quality"
+  },
+  {
+    "timestamp": "2025-07-22T15:57:35.282Z",
+    "checkin": "today i am making sure the ui for the newsletter agent works as well as working on getting the confidence image model alot better"
+  },
+  {
+    "timestamp": "2025-07-28T14:33:49.830Z",
+    "checkin": "today im testing different image models for the newsletter agent and likely wrapping the rag model for my hardwick's website with a backend database to track responses and fill in knowledge gaps"
+  },
+  {
+    "timestamp": "2025-07-29T18:42:15.488Z",
+    "checkin": "today i will be following up with a few people from the urban ed and begining training a text2text model which will be used under the hood to translate rag responses into a proper tone"
+  },
+  {
+    "timestamp": "2025-07-30T18:43:22.366Z",
+    "checkin": "Today i will be working on fixing holes in the rag model via the database i added in the backend"
+  },
+  {
+    "timestamp": "2025-07-31T14:36:11.111Z",
+    "checkin": "Today i will be meeting with ms roxy for the FLAVA and working on getting the image api to return regular data or switching to a different model which will return json also touching base with ms hardwick"
+  },
+  {
+    "timestamp": "2025-08-02T17:05:09.204Z",
+    "checkin": "today I will work on making config.jsons for the prompts for the rag apis for ms hardwick's chatbot I will also work on prompt engineering for them and the image newsletter model"
+  },
+  {
+    "timestamp": "2025-08-04T14:41:00.675Z",
+    "checkin": "today im implementing a different image model into the newsletter agent since i need json output and the agent cant parse binary data"
+  },
+  {
+    "timestamp": "2025-08-05T18:57:29.113Z",
+    "checkin": "I am working on wrapping this image api in an api that turns the binary data into a url and then adding it to the n8n ai agent node"
+  },
+  {
+    "timestamp": "2025-08-06T18:56:48.659Z",
+    "checkin": "today I am changing the bgibr rag model's prompt and then adding data to the database for the rag"
+  },
+  {
+    "timestamp": "2025-08-07T19:25:35.112Z",
+    "checkin": "today I am touching base with my team doing work for ms hardwick and seeing next steps"
+  },
+  {
+    "timestamp": "2025-08-11T21:39:02.314Z",
+    "checkin": "today I'm working on making a lot of more data and working on a website for ms antoya"
+  },
+  {
+    "timestamp": "2025-08-12T20:38:44.394Z",
+    "checkin": "today i will be working on a dataset to train ms hardwick's website's model i plan to also change the font on the website for ms antoya and begin doing market research on my app ide"
+  },
+  {
+    "timestamp": "2025-08-13T20:25:44.784Z",
+    "checkin": "today I am making more data to train the translation models for ms hardwick's website, also will work on the mvp event registration website and getting details for my app idea and creating a stack for my github"
+  },
+  {
+    "timestamp": "2025-08-14T19:42:10.792Z",
+    "checkin": "today I'm working on adding data to datasets to train two ai models on tone and I will also add data to databases for rag"
+  },
+  {
+    "timestamp": "2025-08-16T13:52:29.204Z",
+    "checkin": "today I’m switching the RAG generator for Ms. Hardwick’s sites to gpt-4o-mini for faster, more consistent answers, enforcing Structured Outputs (JSON Schema) with a fixed seed to lock the format. I’ll add caching across the stack, a retrieval cache for vector queries and chunks, and provider prompt caching where eligible alongside streaming responses, I will also trim context in the backend by dropping the lowest ranked context from the cross-encoder, and add basic rate limiting to cut latency and token use. I'll add fallback to gpt-4o on low-confidence cases."
+  },
+  {
+    "timestamp": "2025-08-18T11:57:05.375Z",
+    "checkin": "Today I’m working on implementing async model loading for the embedding and retrieval steps in the rag API for ms hardwicks professional site. I’ve already applied it to her BGIBR api, and the speed improvements are significant. I'll also implement a fallback gpt 4o to the current gpt 4o mini if the question requires more reasoning then normal"
+  },
+  {
+    "timestamp": "2025-08-19T20:46:06.139Z",
+    "checkin": "today I will focus on data labeling and being intentional with that"
+  },
+  {
+    "timestamp": "2025-08-20T20:53:34.572Z",
+    "checkin": "today i will be working with zavier to add more data to our the image-classification feeling dataset i will also work on implementing the open ai rag system into the other rag api i made for ms hardwick's professional website"
+  },
+  {
+    "timestamp": "2025-08-21T20:46:44.149Z",
+    "checkin": "today I will be working with Zavier on this dataset and working on getting variation within the dataset"
+  },
+  {
+    "timestamp": "2025-08-23T14:31:02.047Z",
+    "checkin": "today I am adding image data to the google drive I already implemented all the previous image data I had on my local and hugging face into a shared drive with Zavier. Some roadblocks i will have is not having my computer with me and having to do this from mobile"
+  },
+  {
+    "timestamp": "2025-08-25T15:45:30.250Z",
+    "checkin": "today I will get my feeling image data past 500 rows (at least 50 images for all 10 labels), I will also refactor endpoints to async with connection endpoints to the brown girl in the board room's professional RAG API to improve speed"
+  },
+  {
+    "timestamp": "2025-08-27T20:49:17.729Z",
+    "checkin": "Today i am going to fully lock in on redeploying the two rag apis under a reserved VM deployment type that way the api's are always up i also will begin working on creating an api and application for the financial readyness model"
+  },
+  {
+    "timestamp": "2025-08-28T20:03:09.638Z",
+    "checkin": "Today, I will be extensively researching different model types (linear models, decision trees, ensemble methods, deep learning, etc.) so I can clearly understand the pros/cons of each. My focus will be on how these model families might apply to predicting financial readiness. By the end of today, I plan to have a clear decision on which algorithm type I’ll commit to training (Random Forest Regressor which is ensemble is my current front-runner, but I want to confirm this with research). I will also be joining the bgibr contract call and working on a bit of that work."
+  },
+  {
+    "timestamp": "2025-08-30T14:05:48.752Z",
+    "checkin": "Today i will add more data to my financial dataset, edit the training args for the dataset and train the model"
+  },
+  {
+    "timestamp": "2025-09-02T20:56:22.673Z",
+    "checkin": "today i am working on improving my resnet18 emotion classification model's logs and am adding more data to my entrepreneurial dataset to retrain my model on"
+  },
+  {
+    "timestamp": "2025-09-03T21:04:13.343Z",
+    "checkin": "today I will get with Zavier to combine his images with mine for the emotion classification model the model performed good for the limited amount of data but it just needs more images since i lack consistency and the model didn't generalize the data yet"
+  },
+  {
+    "timestamp": "2025-09-04T19:44:18.185Z",
+    "checkin": "today I will be meeting with ms hardwick I'm not sure how long the meeting will run on for, I will work on clarifying and finishing some details for her chatbots and the email functionality for the website."
+  },
+  {
+    "timestamp": "2025-09-06T14:14:10.479Z",
+    "checkin": "Today i am labeling and augmenting data for my tone dataset."
+  },
+  {
+    "timestamp": "2025-09-08T19:26:15.609Z",
+    "checkin": "today I plan on testing my tone model on edge cases like sarcasm to help the model better generalize tone I also plan to deploy last week's data collection assignment"
+  },
+  {
+    "timestamp": "2025-09-09T21:00:27.585Z",
+    "checkin": "today I will be working on dataset editing and adding more examples across each class and editing my learning rate to minimize overfitting and increase generalization"
+  },
+  {
+    "timestamp": "2025-09-10T21:00:10.041Z",
+    "checkin": "today I will be diagnosing the reason for my very high model accuracy and very low validation loss from the start of the training, I will do more testing on diverse examples for each label and from there make it an api if it performs good"
+  },
+  {
+    "timestamp": "2025-09-11T19:14:37.363Z",
+    "checkin": "Today I will be manually scraping transcripts and slack meetings for tone data to use in my validation dataset if it still performs good I will push wrap the model in an api since the testing I did yesterday showed me that the model failed to generalize tone across all the different classes. I will also likely be on a meeting with Mrs hardwick to make live changes and to get these sites etc. wrapped up"
+  },
+  {
+    "timestamp": "2025-09-15T20:41:07.869Z",
+    "checkin": "Today I will continue improving my tone model and finding holes in the data i trained it on, I work on adding data on my previous classes. I will also contact ms hardwick to get access to the domain."
+  },
+  {
+    "timestamp": "2025-09-16T20:54:15.581Z",
+    "checkin": "\"_Today I’ll be focusing on pulling together all of my high school test score data and organizing it into a structured dataset. The goal is to have a clean file with all scores in one place so we have a solid foundation to work with for the rest of the week._"
+  },
+  {
+    "timestamp": "2025-09-17T20:41:30.024Z",
+    "checkin": "_Today I plan to clean and process the dataset I built yesterday. I’ll also brainstorm and add extra columns that could improve the model, like subject, averages, or study time, so the dataset is ready for training_"
+  },
+  {
+    "timestamp": "2025-09-18T20:28:57.247Z",
+    "checkin": "Today my plan is to train and test prediction models using the processed dataset. I’ll compare a few approaches, check performance, and make sure we have a reliable model that can predict my test scores."
+  },
+  {
+    "timestamp": "2025-09-20T19:03:15.573Z",
+    "checkin": "Today I finished training my test score prediction model"
+  },
+  {
+    "timestamp": "2025-09-22T20:39:56.941Z",
+    "checkin": "today I am labeling tone inputs that i got from chunking transcripts of CIC meetings and interviews"
+  },
+  {
+    "timestamp": "2025-09-23T21:04:13.929Z",
+    "checkin": "today I will be labeling data for the different models (tone and emotions) and i will also be working on cleaning up previous work and creating a ui for a few more models in order to use for my portfolio"
+  },
+  {
+    "timestamp": "2025-09-24T20:46:10.088Z",
+    "checkin": "Today I am working on the backend and adding more buckets to the supabase for a social media app and uploading my model training process to the github repository."
+  },
+  {
+    "timestamp": "2025-09-25T20:42:47.559Z",
+    "checkin": "Today I am making a ui and pushing it to the repo for the social app and I will also retrain the tone model on labeled transcript data on top of the synthetic inputs I already had"
+  },
+  {
+    "timestamp": "2025-09-29T20:44:33.313Z",
+    "checkin": "I retrained and repushed an improved tone model that more confidently predicts statements. It's a lot more consistent and accurate. I made sure to balance classes and stratify splits. Today, I’ll be focusing on building the framework for my personal Jarvis-style assistant that can connect with all of my external services, including my calendar, email, and other productivity tools. I already created a baseline model for one of the components this agent will require, so now I need to integrate it into a larger system design that supports multiple services. Alongside this development work, I’ll review what I missed from Saturday’s meeting to make sure I’m aligned with updates and expectations."
+  },
+  {
+    "timestamp": "2025-09-30T20:53:06.622Z",
+    "checkin": "Today, I’ll be working on integrating Stripe into my detailing site so customers can make secure and seamless payments directly through the platform. Once I’ve set up the payment flow and verified that transactions are processing correctly, I’ll shift my focus back to refining the RAG system and expanding the database of check-ins to improve its coverage and usefulness. In addition, I plan to spend some time progressing on the vibe code assignment to stay on track with my deliverables."
+  }
+]
