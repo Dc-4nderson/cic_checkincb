@@ -6,7 +6,6 @@ available and falls back to urllib. It expects API keys/URLs to be passed in or
 available via environment variables or a `.env` file.
 """
 from __future__ import annotations
-
 import json
 import os
 from typing import List, Dict, Any, Optional
