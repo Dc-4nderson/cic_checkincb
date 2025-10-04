@@ -2,8 +2,13 @@ python-dotenv
 fastapi
 uvicorn
 pydantic
-pinecone-client
+pinecone
 openai
 sentence-transformers
 requests
 flask
+google 
+protobuf
+google-api-python-client
+grpcio
+

@@ -1,19 +1,10 @@
-#import dependencies
-#import functions
-
-#init app
-#/home
-#a database area to show all checkins which get pulled from my JSON file
-#rag chatbot pulling context from my pinecone vector database
-#/upload checkins 
-#coming soon (need slack auth)
 """Small CLI and entrypoint for the checkins RAG project.
 
 Usage examples:
   python app.py upsert    # upsert checkins from my_checkins.json to Pinecone
   python app.py ask "What did I work on yesterday?"
 
-This script reads environment variables from a local `.env` file if present.
+This script reads environment variables from an `.env` file.
 Required env vars:
   PINECONE_API_URL - base URL for Pinecone index (e.g. https://<index>.pinecone.io)
   PINECONE_API_KEY - Pinecone API key

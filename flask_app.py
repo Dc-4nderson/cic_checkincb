@@ -8,7 +8,7 @@ Run: flask --app flask_app.py run
 from __future__ import annotations
 import os
 from flask import Flask, render_template_string, request, redirect, url_for, flash, jsonify
-from data_handling import load_checkins, upsert_checkins_to_pinecone, get_embeddings
+from data_handling import load_checkins, upsert_checkins_to_pinecone_http, upsert_checkins_to_pinecone_grpc, get_embeddings
 from rag import build_context_from_query, generate_answer_from_context, query_pinecone_by_vector
 
 app = Flask(__name__)
@@ -52,6 +52,9 @@ CHECKINS_TEMPLATE = '''
             <h4>Upsert to Pinecone</h4>
             <form method='post' action='{{ url_for("upsert") }}'>
                 <button type='submit' class='btn btn-primary'>Upsert all checkins</button>
+            </form>
+            <form method='post' action='{{ url_for("delete_all") }}'>
+                <button type='submit' class='btn btn-danger mt-2'>Delete all records</button>
             </form>
         </div>
     </div>
@@ -163,7 +166,12 @@ def chatbot():
             try:
                 from data_handling import _openai_embeddings
                 q_emb = _openai_embeddings([question], openai_api_key)[0]
-                pinecone_resp = query_pinecone_by_vector(pinecone_api_url, pinecone_api_key, q_emb, topK=topk)
+                pinecone_resp = query_pinecone_by_vector(
+                    vector=q_emb,
+                    topK=topk,
+                    pinecone_api_url=pinecone_api_url,
+                    pinecone_api_key=pinecone_api_key
+                )
                 context = build_context_from_query(pinecone_resp)
                 answer = generate_answer_from_context(question, context, openai_api_key)
             except Exception as e:
@@ -182,14 +190,47 @@ def upsert():
     pinecone_api_url = os.getenv("PINECONE_API_URL")
     pinecone_api_key = os.getenv("PINECONE_API_KEY")
     openai_api_key = os.getenv("OPENAI_API_KEY")
-    if not pinecone_api_url or not pinecone_api_key:
-        flash("Pinecone API URL and API Key must be set in environment variables or .env file.", "warning")
-        return redirect(url_for("checkins"))
+    index_host = os.getenv("PINECONE_INDEX_HOST")
+    namespace = os.getenv("PINECONE_NAMESPACE", "")
     try:
-        res = upsert_checkins_to_pinecone(pinecone_api_url, pinecone_api_key, None, checkins, openai_api_key=openai_api_key)
-        flash(f"Upserted {res.get('upserted',0)} vectors", "info")
-    except Exception as e:
-        flash(f"Upsert failed: {e}", "warning")
+        res = upsert_checkins_to_pinecone_http(
+            pinecone_api_url, pinecone_api_key, checkins, openai_api_key=openai_api_key
+        )
+        flash(f"Upserted {res.get('upserted',0)} vectors via HTTP", "info")
+    except Exception as http_err:
+        try:
+            res = upsert_checkins_to_pinecone_grpc(
+                pinecone_api_key, index_host, namespace, checkins, openai_api_key=openai_api_key
+            )
+            flash(f"Upserted {res.get('upserted',0)} vectors via gRPC (HTTP failed)", "info")
+        except Exception as grpc_err:
+            flash(f"Upsert failed: HTTP error: {http_err}, gRPC error: {grpc_err}", "warning")
+    return redirect(url_for("checkins"))
+
+@app.route("/delete_all", methods=["POST"])
+def delete_all():
+    pinecone_api_url = os.getenv("PINECONE_API_URL")
+    pinecone_api_key = os.getenv("PINECONE_API_KEY")
+    index_host = os.getenv("PINECONE_INDEX_HOST")
+    namespace = os.getenv("PINECONE_NAMESPACE", "")
+    try:
+        # HTTP delete all
+        url = pinecone_api_url.rstrip("/") + "/vectors/delete"
+        headers = {"Api-Key": pinecone_api_key}
+        body = {"deleteAll": True, "namespace": namespace}
+        from data_handling import _http_post
+        _http_post(url, headers, body)
+        flash("All records deleted via HTTP.", "info")
+    except Exception as http_err:
+        try:
+            # gRPC delete all
+            from data_handling import Pinecone
+            pc = Pinecone(api_key=pinecone_api_key)
+            index = pc.Index(host=index_host)
+            index.delete(delete_all=True, namespace=namespace)
+            flash("All records deleted via gRPC (HTTP failed).", "info")
+        except Exception as grpc_err:
+            flash(f"Delete failed: HTTP error: {http_err}, gRPC error: {grpc_err}", "warning")
     return redirect(url_for("checkins"))
 
 if __name__ == "__main__":
